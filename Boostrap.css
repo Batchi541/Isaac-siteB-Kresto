@@ -1,0 +1,6 @@
+.bg-degrade {
+  background: linear-gradient(to right, #fd7e14, #ffc090);
+}
+.bg-degrade-2 {
+  background: linear-gradient(135deg,  #fd7e14, #ff8534,  #fd7e14);
+}
